@@ -1,0 +1,15 @@
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\bin\Debug\net6.0\MagoNinjaSamurai.exe
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\bin\Debug\net6.0\MagoNinjaSamurai.deps.json
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\bin\Debug\net6.0\MagoNinjaSamurai.runtimeconfig.json
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\bin\Debug\net6.0\MagoNinjaSamurai.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\bin\Debug\net6.0\MagoNinjaSamurai.pdb
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\obj\Debug\net6.0\MagoNinjaSamurai.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\obj\Debug\net6.0\MagoNinjaSamurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\obj\Debug\net6.0\MagoNinjaSamurai.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\obj\Debug\net6.0\MagoNinjaSamurai.AssemblyInfo.cs
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\obj\Debug\net6.0\MagoNinjaSamurai.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\obj\Debug\net6.0\MagoNinjaSamurai.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\obj\Debug\net6.0\refint\MagoNinjaSamurai.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\obj\Debug\net6.0\MagoNinjaSamurai.pdb
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\obj\Debug\net6.0\MagoNinjaSamurai.genruntimeconfig.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\MagoNinjaSamurai\obj\Debug\net6.0\ref\MagoNinjaSamurai.dll
